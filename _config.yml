@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-# ideas: load cv as pdf (https://jgfleischer.com/publications/) 
+# ideas: load cv as pdf (https://jgfleischer.com/publications/)
 
 title:  blank # the website title (if blank, full name will be used instead)
 first_name: Edgar  # bold
@@ -326,4 +326,3 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
-
