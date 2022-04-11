@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 years: [2021,2020,2019]
 ---
 
-I am a PhD student in Machine Learning and Computer Vision at the [Bosch Center for AI](https://www.bosch-ai.com/) and Saarland University in Germany, advised by [Anna Khoreva](https://www.bosch-ai.com/research/researcher-pages/t_overviewpage_47.html) and [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele). Previously, I graduated with a Master's degree in artificial intelligence from the University of Amsterdam and a Bachelor's degree in Nanobiology from Delft Technical University.
+I am a PhD student in Machine Learning and Computer Vision at the [Bosch Center for AI](https://www.bosch-ai.com/) and Saarland University in Germany, advised by [Anna Khoreva](https://www.bosch-ai.com/research/researcher-pages/t_overviewpage_47.html) and [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele). Previously, I graduated with a Master's degree in Artificial Intelligence from the University of Amsterdam and a Bachelor's degree in Nanobiology from Delft Technical University.
 
 While main research interest is controllable image synthesis, I am also very curious about out-of-distribution generalization, zero-shot generalization, compositionality and causality.
 
