@@ -5,7 +5,7 @@
 # ideas: load cv as pdf (https://jgfleischer.com/publications/)
 
 title:  blank # the website title (if blank, full name will be used instead)
-first_name: Edgar  # bold
+first_name: Edgar  # bold 
 middle_name: # not bold
 last_name: Schönfeld # not bold
 email: #edgarschoenfeld@live.de
@@ -121,7 +121,7 @@ news_limit: 5
 
 # Markdown and syntax highlight
 markdown: kramdown
-highlighter: rouge 
+highlighter: rouge
 #highlight_theme_light: github  # https://github.com/jwarby/jekyll-pygments-themes
 #highlight_theme_dark: native  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
