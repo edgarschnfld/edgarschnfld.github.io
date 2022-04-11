@@ -24,9 +24,10 @@ I am a PhD student in Machine Learning and Computer Vision at the [Bosch Center 
 While main research interest is controllable image synthesis, I am also very curious about out-of-distribution generalization, zero-shot generalization, compositionality and causality.
 
 
-<br /> 
+<br />
 {: #publications}
 ## __Publications__
+<!-- _pages/publications.md -->
 <div class="publications">
   {% for y in page.years %}
     {% bibliography -f papers -q @*[year={{y}}]* %}

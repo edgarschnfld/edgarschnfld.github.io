@@ -1,9 +1,10 @@
-I"�6<p>I am a PhD student in Machine Learning and Computer Vision at the <a href="https://www.bosch-ai.com/">Bosch Center for AI</a> and Saarland University in Germany, advised by <a href="https://www.bosch-ai.com/research/researcher-pages/t_overviewpage_47.html">Anna Khoreva</a> and <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele">Bernt Schiele</a>. Previously, I graduated with a Master’s degree in artificial intelligence from the University of Amsterdam and a Bachelor’s degree in Nanobiology from Delft Technical University.</p>
+I"�6<p>I am a PhD student in Machine Learning and Computer Vision at the <a href="https://www.bosch-ai.com/">Bosch Center for AI</a> and Saarland University in Germany, advised by <a href="https://www.bosch-ai.com/research/researcher-pages/t_overviewpage_47.html">Anna Khoreva</a> and <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele">Bernt Schiele</a>. Previously, I graduated with a Master’s degree in artificial intelligence from the University of Amsterdam and a Bachelor’s degree in Nanobiology from Delft Technical University.</p>
 
 <p>While main research interest is controllable image synthesis, I am also very curious about out-of-distribution generalization, zero-shot generalization, compositionality and causality.</p>
 
 <p id="publications"><br /></p>
 <h2 id="publications"><strong>Publications</strong></h2>
+<!-- _pages/publications.md -->
 <div class="publications">
   
     <ol class="bibliography"><li><!-- _layouts/bib.html -->
