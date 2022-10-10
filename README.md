@@ -7,4 +7,6 @@ bundle install
 bundle exec jekyll serve
 ```
 ### Deploy
-Just push to master and github actions does the rest
+```bash
+./bin/deploy 
+```
