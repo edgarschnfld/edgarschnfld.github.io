@@ -1,7 +1,4 @@
-# henrik.nyh.se
-
-Static HTML site.
-
+Static HTML site, borrowing heavily from https://github.com/henrik/henrik.nyh.se.
 
 ## Development
 
@@ -25,10 +22,3 @@ Or just do this in an macOS terminal:
 ```
 open public/index.html
 ```
-
-
-## Production
-
-Push to deploy on Netlify.
-
-This also converts SCSS to CSS, whether or not you've already done so locally.
