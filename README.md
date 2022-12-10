@@ -16,9 +16,7 @@ script/watch
 
 If something doesn't appear to work, watch that window for errors and warnings.
 
-The content is in a `public` directory to work with [Pow](http://pow.cx) for local development.
-
 Or just do this in an macOS terminal:
 ```
-open public/index.html
+open index.html
 ```
