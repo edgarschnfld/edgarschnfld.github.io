@@ -529,6 +529,7 @@ body {
 }
 
 .people-link {
+  font-weight: normal;
   color: #292c3f;
   text-decoration: none;
 }
