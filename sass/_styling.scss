@@ -1,0 +1,71 @@
+body {
+  background: $yellowish-white;
+  color: $yellowish-black;
+  text-shadow: 1px 1px 1px #fff;
+  font: 300 22px/1.5 "Source Sans Pro", sans-serif;
+}
+
+a, b {
+  font-weight: 400;
+}
+
+//a {
+//  &, &:visited {
+//    color: $link-gray;
+//    text-decoration: none;
+//    border-bottom: 1px solid $light-gray;
+//  }
+
+//  &:hover, &:focus {
+//    color: $dark-link-gray;
+//    border-color: $dark-gray;
+//  }
+//}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  margin-top: 45px;
+  font-size: 20px;
+}
+
+
+
+.at {
+  color: $light-link-gray;
+}
+
+.the-pug {
+  // Shrink for retina.
+  width: 242px;
+  height: 242px;
+}
+
+.secondary-content {
+  font-size: 18px;
+}
+
+.long-content {
+  text-align: left;
+  font-size: 18px;
+  max-width: 31em;
+  margin: 45px 0;
+
+  li {
+    margin: 10px 0;
+  }
+}
+
+.links {
+  font-size: 16px;
+  list-style-type: none;
+  padding: 0;
+
+  &__link {
+    display: inline;
+    margin: 0 10px;
+    white-space: nowrap;
+  }
+}
