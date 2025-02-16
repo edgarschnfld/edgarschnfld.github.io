@@ -20,3 +20,32 @@ Or just do this in an macOS terminal:
 ```
 open index.html
 ```
+
+## For dummies
+
+install. bundle
+```
+bundle install --path vendor/bundle
+```
+
+edit website by changing the file
+```
+index.html
+```
+
+execute
+```
+bundle
+```
+
+execute
+```
+script/watch
+```
+
+open local file
+```
+index.html
+```
+
+push to main
