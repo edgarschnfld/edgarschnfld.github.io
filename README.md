@@ -48,4 +48,12 @@ open local file
 index.html
 ```
 
-push to main
+push to master (it's not main)
+```
+git push origin master
+```
+
+go to the actions tab of your page
+https://github.com/edgarschnfld/edgarschnfld.github.io/actions
+
+it should show "pages build and deployment" with the status "in progress"
