@@ -622,7 +622,26 @@ h2 {
 .the-pug {
   width: 242px;
   height: 242px;
+  border: 3px solid #fbfbf9;
+  border-radius: 10px;
+  /*border-image: linear-gradient(to right, #fbfbf9, transparent, 3) */
+  /* position: relative;
+  display: inline-block ;
+  z-index: 1; */
 }
+/* .the-pug::before{
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  background:  linear-gradient(to right, #fbfbf9, transparent, 10);
+  z-index: -1;
+  border-radius: 5px;
+  pointer-events: none;
+  display: block;
+} */
 
 .secondary-content {
   font-size: 18px;
